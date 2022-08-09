@@ -15,9 +15,9 @@
 - 
 - As time went on, I started to evaluate my career and narrow down what exactly I wanted to do in I.T. Things were not clicking for me
 - at the time, so I started looking back at some of my old notes when I took an intro to Linux course back in college. I noticed
-- that some of the commands that I learned with PowerShell were not to different from the commands I used in Linux. Curiosity got the
-- better of me and I decided to take it one step further and install Ubuntu on Oracles VirtualBox. I was honestly confused on what to 
-- do the moment I had it installed. I didn't know where to begin. I was presented with a GUI and no knowledge of where to start. 
+- that some of the commands that I learned with PowerShell were not too different from the commands I used in Linux. Curiosity got the
+- better of me and I decided to take it one step further and install Ubuntu on Oracle's VirtualBox. I was honestly confused on what to 
+- do the moment I have it installed. I didn't know where to begin. I was presented with a GUI and no knowledge of where to start. 
 - 
 - After playing around with Ubuntu, I started looking up "how to" videos on how to navigate the OS. During my research I came across a 
 - YouTube channel by the name of LearnLinux.tv. The very first tutorial I remember clicking on was "Navigating the File System". The 
@@ -31,14 +31,17 @@
 - a passion to continue learning Linux. I am not afraid to admit that I don't know everything. I am willing to research and learn the material.
 - 
 - ❓ What got me into Linux?
+- The passion for learning. I honestly saw more benefits with Linux compared to Windows during my research. The things we use everyday,
+- how servers work, and the open community. There is so much that I don't understand, but I am willing to learn. Career development plays
+- an important role and where I want to be in the future. A skill I can be proud of while showing attention to detail. 
+- 
+- 📫 How to reach me:
+- Since I am new to GitHub, I do have a LinkedIn account. I would be honored if you gave my profile a look to see what I have to offer. 
+- I thank you very much for taking the time to read my story. And I hope that anyone who took the time to read this also gained some
+- motivation on whatever project you may be working towards. 
+- 
+- LinkedIn: linkedin.com/in/hstacey1218
 -
-- 
-- 
--  
-
-- 💞 I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 HBStacey/HBStacey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
